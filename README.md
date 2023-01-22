@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbgbnb
 - 👀 I’m interested in: Web development, ui design, and cats.
 - 🌱 I’m currently learning: How to do all of this
-- 💞️ I’m looking to collaborate on: nothing quite yet until I'm more comfortable as a developer
+- 💞️ I’m looking to collaborate on: Software w/ Dad
 - 📫 How to reach me - Carrier pigeon.
 
 <!---
