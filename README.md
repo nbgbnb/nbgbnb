@@ -7,7 +7,8 @@ I'm a software student doing silly things on computers sometimes. I'm currently 
 - Metroidvanias 👾
   
 ## 🌱 I’m currently learning: 
-- How the Internet works (in alarming detail)
+How the Internet works  
+(in alarming detail)
 - js / node 🧩
 - frontend 🖥
 - sql 🛢
